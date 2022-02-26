@@ -2,7 +2,7 @@ body {
   background-color: #fff;
   color: black;
   font-family: Georgia, "Times New Roman", Times, serif;
-  margin: 0;
+  margin: 2%;
 }
 .container {
   display: flex;
@@ -10,12 +10,16 @@ body {
   align-items: center;
   color: cadetblue;
   font-size: xx-large;
+  padding: 2%;
+  margin: 2%;
 }
 #logo {
-  padding: 5px 80px;
+  padding: 2%;
+  margin: 2%;
 }
 #navbar ul {
   margin: 0;
+  padding: 0;
 }
 #navbar li {
   display: inline-block;
